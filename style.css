@@ -1,0 +1,62 @@
+/* General page styling */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Headings */
+h1 {
+  color: #2c3e50;
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+h2 {
+  color: #34495e;
+  margin-top: 30px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+/* Sections */
+section {
+  margin-bottom: 30px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Lists */
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
+
+/* Contact links */
+.contact a {
+  color: #2980b9;
+  text-decoration: none;
+}
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation bar */
+nav {
+  background: #2c3e50;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 6px;
+}
+nav a {
+  color: #fff;
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
