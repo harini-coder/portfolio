@@ -1,11 +1,12 @@
 :root {
-  --dark-navy: #2c3e50;     /* background */
-  --light-navy: #34495e;    /* card background */
-  --lightest-navy: #3b4a60; /* section background */
-  --slate: #dcdcdc;         /* text */
-  --light-slate: #ecf0f1;   /* headings */
-  --green: #64ffda;         /* accent */
+  --dark-navy: #0f3d3e;
+  --light-navy: #145252;
+  --lightest-navy: #1c5c5d;
+  --slate: #a8b2d1;
+  --light-slate: #e0f7f4;
+  --green: #64ffda;
 }
+
 
 
 /* General page styling */
